@@ -1,0 +1,13 @@
+{
+  name: HDI,
+  displayName: Hollow,
+  description: Dead inside
+  minGameVersion: 136,
+  author: 
+    ''' 
+    
+    Owner: UnknownZ4085
+    
+    '''
+  version: 0.02
+}
